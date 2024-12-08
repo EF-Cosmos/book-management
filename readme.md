@@ -24,7 +24,7 @@ user可以搜索书本内容,可以根据字段匹配从key:名称,作者,分类
 常规参数包含:书名,作者,出版日期,类别
 根据不同种类的书,系统会要求用户追加填写额外的参数
 以上所有类别的书本以--title--author--publication_date--special_parameter
-期中,special_parameter(额外参数)使用json格式存储
+其中,special_parameter(额外参数)使用json格式存储
 
 额外的参数暂时不支持在搜索里搜索
 
